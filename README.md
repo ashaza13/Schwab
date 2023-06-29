@@ -6,3 +6,5 @@ This is a simple machine learning model created to make predictions on the futur
 
 ## Implementation
 There were 2 models that were analyzed to predict the price of the fund. The first model that was used is Linear Regression. The results for the linear regression model against the actual results are pictured below.
+
+![Linear Regression Results](/assets/lr.png)
