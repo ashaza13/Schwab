@@ -8,3 +8,7 @@ This is a simple machine learning model created to make predictions on the futur
 There were 2 models that were analyzed to predict the price of the fund. The first model that was used is Linear Regression. The results for the linear regression model against the actual results are pictured below.
 
 ![Linear Regression Results](/assets/lr.png)
+
+The second model that was analyzed to predict the price of the fund was the LSTM neural network. This model provided more promising results. The results for this model are shown below.
+
+![LSTM Results](/assets/lstm.png)
